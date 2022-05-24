@@ -77,9 +77,11 @@ When you're done, you can upload your files to this Repo and commit the changes.
 1) Click `Add files ` at the top right of the Repo page.
 
 There are two options:
-a) Click "Add Files" to create new Java files in the repo manually. Create new files with name `Lab1_1.java` and `Lab1_2.java` You can re-type or copy paste your code into those files.
-b) Click "Upload Files" to just upload the .java files you already created. Navigate to the `src` folder on your computer and upload `Lab1_1.java` and `Lab1_2.java`.
 
-2) Once you've created the file you want, or uploaded them, navigate to the bottom of the Page and hit "Commit changes". Ensure "Commit directly to the `main` branch." is selected.
+A) Click "Add Files" to create new Java files in the repo manually. Create new files with name `Lab1_1.java` and `Lab1_2.java` You can re-type or copy paste your code into those files.
+
+B) Click "Upload Files" to just upload the .java files you already created. Navigate to the `src` folder on your computer and upload `Lab1_1.java` and `Lab1_2.java`.
+
+2) Once you've created the file you want, or uploaded them, navigate to the bottom of the Page and hit "Commit changes". Ensure "Commit directly to the `main` branch." is selected. You'll need to "Commit changes" once for each file you "Create" in GitHub, but can upload multiple files before a single Commit. 
 
 
