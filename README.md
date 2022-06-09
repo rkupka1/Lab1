@@ -1,7 +1,11 @@
 # CSCI 201 FALL 2022
 Lab 1 Starter Code
 
-Welcome to GitHub and your first CS201 Lab! This lab will teach you to print to the Standard Output (the screen!) and allow input from the user through the Standard Input (the keyboard!). 
+Welcome to GitHub and your first CS201 Lab!
+
+### Learning Goals:
+- print to the Standard Output (the screen!)
+- allow input from the user through the Standard Input (the keyboard!)
 
 
 ### Creating an IntelliJ Project
